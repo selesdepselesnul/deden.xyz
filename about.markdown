@@ -12,3 +12,4 @@ I love programming and linux
 
 I've been programming professionally since 2015
 
+My main strength is Server-side (backend) development
