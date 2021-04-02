@@ -20,8 +20,6 @@
 
 title: M Deden R S
 email: moch.deden.r@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  My notes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  selesdepselesnul
